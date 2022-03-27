@@ -75,7 +75,7 @@ module.exports = function towelSort (matrix) {
 * (Score JS/FE Pre-School 2022)(https://app.rs.school/): progress - 100%
 
 
-
+ 
 ## Language
 
 **English language**: Lol level/below the average level
