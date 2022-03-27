@@ -1,3 +1,5 @@
+![My_photo](./image/Photo.png "Photo")
+
 # Aleksandr Altarev
 
 ## Contact info
@@ -62,7 +64,9 @@ module.exports = function towelSort (matrix) {
 ## Junior Dev 
 
 * (Portfolio)[https://rolling-scopes-school.github.io/alaicev-JSFEPRESCHOOL/portfolio/]
-
+* (tic-tac-toe)[https://rolling-scopes-school.github.io/alaicev-JSFEPRESCHOOL/tic-tac-toe/]
+* (audio-player)[https://rolling-scopes-school.github.io/alaicev-JSFEPRESCHOOL/audio-player/]
+* (random-jokes)[https://rolling-scopes-school.github.io/alaicev-JSFEPRESCHOOL/random-jokes/]
 
 
 ## Education 
